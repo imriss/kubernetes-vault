@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/Boostport/kubernetes-vault/common"
+	"github.com/imriss/kubernetes-vault/common"
 	"github.com/cenkalti/backoff"
 	"github.com/hashicorp/go-cleanhttp"
 	"github.com/hashicorp/go-multierror"

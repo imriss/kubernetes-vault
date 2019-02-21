@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/Boostport/kubernetes-vault/common"
+	"github.com/imriss/kubernetes-vault/common"
 	"github.com/cenkalti/backoff"
 	"github.com/ericchiang/k8s"
 	"github.com/ericchiang/k8s/api/v1"

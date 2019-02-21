@@ -18,7 +18,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Boostport/kubernetes-vault/common"
+	"github.com/imriss/kubernetes-vault/common"
 	"github.com/hashicorp/go-cleanhttp"
 	"github.com/hashicorp/vault/api"
 	"github.com/pkg/errors"
